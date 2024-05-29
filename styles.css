@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.div {
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black; display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p {
+    color: purple;
+    text-align: center;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 96vh
+}
